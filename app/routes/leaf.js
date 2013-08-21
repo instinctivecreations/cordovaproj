@@ -1,0 +1,1 @@
+App.LeafRoute = Ember.Route.extend()
